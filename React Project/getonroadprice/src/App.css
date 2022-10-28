@@ -1,0 +1,321 @@
+.top-header.bg-active {
+  background: #4D9DE6;
+}
+.list-inline a {
+  color: #fff;
+  margin-right: 15px;
+  font-size: 14px;
+  font-weight: 400;
+  opacity: 0.9;
+  text-decoration: none;
+}
+.top-header ul li {
+  padding-left: 4px;
+  height: 50px;
+  display: inline-block;
+  text-align: center;
+  line-height: 44px;
+  color: #aaa;
+  font-size: 15px;
+}
+
+.top-head-icon{
+  padding: 11px;
+  border-radius: 2px;
+  background: rgba(0,0,0,0.15);
+  box-shadow: 0px 0px 0px 1px rgb(255 255 255 / 20%);
+}
+.site-logo{
+  height: 40px;
+}
+
+.main-header .navbar-expand-lg .navbar-nav .nav-link{
+  padding: 40px 15px 36px;
+}
+
+body{
+  font-size: 16px;
+  font-family: Poppins;
+}
+
+.bkg-banner{
+  background-image: url(./Components/images/banner1.jpg);
+  height: 540px; 
+  background-size: cover;
+  padding: 14% 0;
+}
+.bnr-slt-pd{
+  /* padding: 10px 15px;
+  width: 213px; */
+  padding: 10px 0px;
+  width: 221px;
+  border: solid #80808052 0.1px;
+}
+.global-theme-color{
+  background-color: #4d9de6;
+}
+.global-text-color{
+  color: #4D9DE6;
+}
+.wt-txt-color{
+  color: white;
+}
+.h2-font-banner{
+  font-size: 55px;
+  font-weight: 700;
+}
+.h3-font-size{
+  font-size: 33px;
+  font-weight: 700;
+  margin-bottom: 15px;
+}
+
+
+.brand-box {
+  text-align: center;
+  display: inline-block;
+  width: 100%;
+  margin-bottom: 30px;
+  color: #505050;
+  background: #fff;
+  padding: 20px 15px;
+  transform: scale(1);
+  transition: 1s;
+  text-decoration: blink;
+}
+.faq-info .nav-tabs .nav-link {
+  display: block;
+  padding: 12px 20px 12px;
+  border-radius: 0;
+  background: #fff;
+  margin: 5px;
+  border: 1px solid #cdcdcd;
+}
+
+.nav-tabs .nav-link:hover{
+  color: white;
+  background-color: #4D9DE6;
+}
+.nav-tabs .nav-link.active{
+  color: white;
+  background-color: #4D9DE6;
+}
+
+
+.background-for-sec{
+  background-color: #f9f9f8;
+}
+
+.unq-width{
+  width: 59%;
+}
+
+.brand-box h5{
+  margin-top: 20px;
+}
+.nav-item button{
+  color: #535379;
+}
+
+
+
+/* For The most searched cars */
+.car-box .detail {
+  padding: 25px 20px 10px;
+}
+.car-box .detail .title {
+  font-size: 21px;
+  margin-bottom: 10px;
+  font-weight: 500;
+}
+.car-box .detail .title a{
+  text-decoration: none;
+}
+.car-box .detail .location a{
+  text-decoration: none;
+  color: #5f5e5e;
+}
+.car-box .detail .location {
+  margin-bottom: 10px;
+  font-size: 15px;
+  font-weight: 400;
+}
+.car-box {
+  position: relative;
+  margin-bottom: 30px;
+  background: #fff;
+  z-index: 9;
+  -webkit-transition: .5s;
+  transition: .5s;
+  margin-bottom: 30px!important;
+  
+}
+
+
+
+/* Footer css */
+footer {
+  padding-top: 80px;
+  background: #4d9de6;
+  z-index: 0;
+  background-position: center center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  position: relative;
+}
+.footer .footer-inner .contact-info li {
+  margin-bottom: 15px;
+  font-size: 15px;
+  font-weight: 500;
+  color: #fff;
+  position: relative;
+}
+.footer .social-list-2 li {
+  display: inline-block;
+  font-size: 16px;
+  text-align: center;
+  margin: 0 1px;
+}
+.footer .social-list-2 li a {
+  margin: 0 2px;
+  color: #fff;
+  width: 40px;
+  height: 40px;
+  line-height: 40px;
+  display: inline-block;
+  border-radius: 2px;
+  background: rgba(0,0,0,0.15);
+  box-shadow: 0px 0px 0px 2px rgb(255 255 255 / 20%);
+}
+.footer h4 {
+  font-size: 20px;
+  margin-bottom: 25px;
+  font-weight: 400;
+  color: #fff;
+}
+.footer ul li a {
+  color: #fff;
+}
+a {
+  text-decoration: none;
+}
+.recent-posts-box img {
+  width: 70px;
+  border-radius: 3px;
+}
+.footer .footer-inner .links li {
+  margin-bottom: 15px;
+  position: relative;
+  line-height: 20px;
+  font-size: 15px;
+}
+.footer .recent-posts-box h5 a {
+  color: #fff;
+  font-weight: 400;
+  font-size: 18px;
+}
+.footer .recent-posts .listing-post-meta {
+  font-size: 14px;
+  color: #fff;
+}
+.footer .recent-posts .listing-post-meta a {
+  color: #fff;
+}
+.footer .footer-inner p {
+  font-size: 15px;
+  color: #fff;
+}
+.footer .newsletter-form .btn-theme {
+  background: #ffffff;
+  color: #4d9de6;
+}
+.sub-footer {
+  padding: 20px 0;
+  text-align: center;
+  margin-bottom: 0;
+  border-top: solid 1px #ffffff2e;
+  color: #fff;
+}
+.sub-footer p {
+  margin-bottom: 0;
+  color: #fff;
+  text-align: left;
+  line-height: 44px;
+}
+.footer a {
+  color: #fff;
+}
+.footer .social-list-2 {
+  float: right;
+}
+.social-list-2 ul{
+  margin: auto;
+}
+
+.footer .newsletter-form .form-control{
+  width: 70%;
+  padding: 15px 20px;
+  font-size: 15px;
+  height: 50px;
+  border-radius: 3px;
+}
+
+
+/* Car Brand Page */
+.sub-banner{
+  background: url(/src/Components/images/Banners/car-1.jpg);
+  background-size: cover;
+  height: 300px;
+  background-position: center center;
+  background-repeat: no-repeat;
+  position: relative;
+  text-align: center;
+}
+.sub-banner .breadcrumb-area h1 {
+  margin: 0 0 5px;
+  font-weight: 600;
+  color: #fff;
+  font-size: 30px;
+  text-transform: uppercase;
+}
+.sub-banner .breadcrumbs li {
+  display: inline-block;
+  list-style: none;
+  font-size: 16px;
+  font-weight: 400;
+  margin: 0;
+}
+.sub-banner .breadcrumbs .active:before {
+  margin-right: 7px;
+  content: "/";
+  padding: 0 3px;
+  color: #fff;
+  font: normal normal normal 16px/1 FontAwesome;
+}
+.sub-banner .breadcrumbs li a {
+  color: #e7e7e7;
+}
+
+.sub-banner .breadcrumbs .active {
+  margin-left: 3px;
+  color: #e7e7e7;
+}
+.breadcrumbs{
+  padding: 0;
+}
+.sub-banner .breadcrumb-area {
+  letter-spacing: 1px;
+  position: absolute;
+  top: 40%;
+  right: 0;
+  left: 0;
+}
+.sub-banner:before {
+  position: absolute;
+  content: '';
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  background-color: rgb(0 0 0 / 45%);
+}
