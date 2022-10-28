@@ -6,7 +6,7 @@ import MainFooter from './Components/MainFooter';
 import MostSearchedCars from './Components/MostSearchedCars';
 import NavHeader from './Components/NavHeader';
 import TopHeader from './Components/TopHeader';
-import ErrorPage from './Components/ErrorPage';
+// import ErrorPage from './Components/ErrorPage';
 
 function App() {
   return (
@@ -18,8 +18,10 @@ function App() {
           <Routes>
             <Route path='/getonroadprice/home' element={<HomePage/>}/>
             <Route path='/getonroadprice/' element={<HomePage/>}/>
+            <Route path='/' element={<HomePage/>}/>
+
             
-            <Route path="*" element={<ErrorPage />} />
+            {/* <Route path="*" element={<ErrorPage />} /> */}
             <Route path='/getonroadprice/car-brand' element={<CarBrandPage/>}/>
 
             {/* <Route path='/Car' element=""/> */}
