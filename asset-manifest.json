@@ -1,27 +1,28 @@
 {
   "files": {
-    "main.css": "/getonroadprice/static/css/main.86866945.css",
-    "main.js": "/getonroadprice/static/js/main.54a2c16b.js",
+    "main.css": "/getonroadprice/static/css/main.23026410.css",
+    "main.js": "/getonroadprice/static/js/main.963fc0bc.js",
     "static/js/787.285c338e.chunk.js": "/getonroadprice/static/js/787.285c338e.chunk.js",
-    "static/media/banner1.jpg": "/getonroadprice/static/media/banner1.eb4ee8d8ee5d87e0a30a.jpg",
-    "static/media/car-1.jpg": "/getonroadprice/static/media/car-1.0d19a3a3c3e88ee1c549.jpg",
+    "static/media/3.png": "/getonroadprice/static/media/3.205e97f91ffed76b5692.png",
+    "static/media/5.png": "/getonroadprice/static/media/5.40e75dd6229a9730fd8b.png",
+    "static/media/carcolour1.png": "/getonroadprice/static/media/carcolour1.2567ff2b68849ff2da9e.png",
+    "static/media/8.png": "/getonroadprice/static/media/8.dc04a285f78ebd179afd.png",
+    "static/media/7.png": "/getonroadprice/static/media/7.2af41f26752bc98f7ffd.png",
+    "static/media/2.png": "/getonroadprice/static/media/2.7164dcae6b330dc5f22a.png",
+    "static/media/4.png": "/getonroadprice/static/media/4.6afa0fc30ceae5f348e5.png",
+    "static/media/1.png": "/getonroadprice/static/media/1.f05b8a111ad15d6dca59.png",
+    "static/media/6.png": "/getonroadprice/static/media/6.aa63c5c14e243e7b4972.png",
+    "static/media/banner1.jpg": "/getonroadprice/static/media/banner1.91c203354ca9d6def058.jpg",
+    "static/media/car-1.jpg": "/getonroadprice/static/media/car-1.09642095892ff5fb12a8.jpg",
     "static/media/car-2.jpg": "/getonroadprice/static/media/car-2.eb7fb1c974b59c466459.jpg",
     "static/media/car-3.jpg": "/getonroadprice/static/media/car-3.34ec40f8b24c776dffdb.jpg",
-    "static/media/car-4.jpg": "/getonroadprice/static/media/car-4.91cebedbc851b05b3e17.jpg",
-    "static/media/small-car-3.jpg": "/getonroadprice/static/media/small-car-3.5273dfe8357188ca9a8d.jpg",
-    "static/media/small-car-2.jpg": "/getonroadprice/static/media/small-car-2.4980d23f4d9b928feba1.jpg",
-    "static/media/brand-16.png": "/getonroadprice/static/media/brand-16.74b65658eedd15bb948e.png",
-    "static/media/small-car-1.jpg": "/getonroadprice/static/media/small-car-1.ee2b6ddf87125176239b.jpg",
-    "static/media/brand-14.png": "/getonroadprice/static/media/brand-14.589b028105a1125847f6.png",
-    "static/media/brand-10.png": "/getonroadprice/static/media/brand-10.0323af48196419401798.png",
-    "static/media/brand-8.png": "/getonroadprice/static/media/brand-8.1f4bdc32247a351e38f0.png",
     "index.html": "/getonroadprice/index.html",
-    "main.86866945.css.map": "/getonroadprice/static/css/main.86866945.css.map",
-    "main.54a2c16b.js.map": "/getonroadprice/static/js/main.54a2c16b.js.map",
+    "main.23026410.css.map": "/getonroadprice/static/css/main.23026410.css.map",
+    "main.963fc0bc.js.map": "/getonroadprice/static/js/main.963fc0bc.js.map",
     "787.285c338e.chunk.js.map": "/getonroadprice/static/js/787.285c338e.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.86866945.css",
-    "static/js/main.54a2c16b.js"
+    "static/css/main.23026410.css",
+    "static/js/main.963fc0bc.js"
   ]
 }
